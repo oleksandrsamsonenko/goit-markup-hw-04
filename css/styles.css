@@ -175,7 +175,7 @@ a.link:hover {
 }
 
 .hero-container {
-  min-width: 1600px;
+  max-width: 1600px;
 }
 
 .hero-title {
